@@ -143,12 +143,4 @@
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   },
-  "bugs": {
-    "url": "https://github.com/exceljs/exceljs/issues"
-  },
-  "homepage": "https://github.com/exceljs/exceljs#readme",
-  "directories": {
-    "lib": "lib",
-    "test": "test"
-  }
 }
