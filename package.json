@@ -97,8 +97,10 @@
     "dayjs": "^1.8.34",
     "fast-csv": "^4.3.1",
     "jszip": "^3.10.1",
+    "node-html-parser": "^6.1.12",
     "readable-stream": "^3.6.0",
     "saxes": "^5.0.1",
+    "string-pixel-width": "^1.11.0",
     "tmp": "^0.2.0",
     "unzipper": "^0.10.11",
     "uuid": "^8.3.0"
@@ -142,5 +144,13 @@
     "sax": "^1.2.4",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
+  },
+  "bugs": {
+    "url": "https://github.com/exceljs/exceljs/issues"
+  },
+  "homepage": "https://github.com/exceljs/exceljs#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
